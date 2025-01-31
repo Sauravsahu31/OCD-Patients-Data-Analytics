@@ -23,7 +23,7 @@ This project analyzes a dataset of 1,500 OCD patients to uncover insights into d
 ## Tools Used
 - SQL, Excel, Power BI.
 
-- ## Resources
+## Resources
  
 - **Dashboard**: 
   <a href="https://app.powerbi.com/view?r=eyJrIjoiMzE4MDcwYzYtYWU4ZS00NGRlLTkxZjYtMjUzZjJkZWQ2NGUzIiwidCI6IjBjZmNjNzhhLTg2ODEtNGQ2Mi1hYTMxLTY4ZmYxNWFkZTY2MyJ9" target="_blank">Link</a>
