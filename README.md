@@ -37,5 +37,4 @@ This project analyzes a dataset of 1,500 OCD patients to uncover insights into d
 ## Conclusion
 This project provides robust insights into OCD patient data, enabling better clinical understanding and personalized treatment strategies.
 
-## License
-[MIT License](LICENSE)
+
