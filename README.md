@@ -32,7 +32,7 @@ This project analyzes a dataset of 1,500 OCD patients to uncover insights into d
   <a href="https://www.kaggle.com/datasets/ohinhaque/ocd-patient-dataset-demographics-and-clinical-data/data" target="_blank">Link</a>
   
 - **Tutorial**: 
-  <a href="http://127.0.0.1:5500/uploads/Videos/OCD.mp4" target="_blank">Link</a>
+  <a href="https://drive.google.com/file/d/1AoiMwhwMLqXHL_Wqbc65nHx0HO396Blh/view?usp=sharing">Link</a>
 
 ## Conclusion
 This project provides robust insights into OCD patient data, enabling better clinical understanding and personalized treatment strategies.
